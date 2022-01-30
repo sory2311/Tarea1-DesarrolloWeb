@@ -23,7 +23,9 @@ body{
 
 #inicio{
     background-color: #7cd492;
+    font-family: cursive;
     border: 1px solid #000;
+    text-align: center;
     padding: 20px;
 }
 
@@ -81,7 +83,7 @@ body{
 
 .about1 , .about2 , .about3 {
     margin: 10px;
-    border: 2px dashed #000;
+    border: 1px dashed #000;
     padding: 5px 5px;
     text-align: justify;
       
@@ -110,7 +112,8 @@ body{
     background-color: rgb(250, 201, 238);
     clear: both;  
     text-align: center;
-    padding: 20px;
+    padding: 10px;
+    font-family: fantasy;
     
   }
 
@@ -125,7 +128,7 @@ body{
     }
 
     article{
-        border: 2px dashed #000;
+        border: 1px dashed #000;
         padding: 20px;
        
 
